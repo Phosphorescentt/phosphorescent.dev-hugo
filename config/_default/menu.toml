@@ -1,11 +1,11 @@
 # Configure main menu and social menu
-#[[main]]
-#identifier = "home"
-#name = "Home"
-#url = "/"
-#[main.params]
-#icon = "home"
-#newtab = true
+[[main]]
+identifier = "home"
+name = "Home"
+url = "/"
+
+[main.params]
+icon = "home"
 
 [[social]]
 identifier = "github"
@@ -22,3 +22,11 @@ url = "https://twitter.com/EsportsPhos"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "ko-fi"
+name = "Ko-fi"
+url = "https://ko-fi.com/phosphorescent"
+
+[social.params]
+icon = "link"
