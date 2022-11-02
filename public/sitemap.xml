@@ -2,10 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://phosphorescent.dev/post/</loc>
+    <lastmod>2022-10-30T23:04:44+00:00</lastmod>
+  </url><url>
+    <loc>https://phosphorescent.dev/p/test/</loc>
+    <lastmod>2022-10-30T23:04:44+00:00</lastmod>
+  </url><url>
+    <loc>https://phosphorescent.dev/about/</loc>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phosphorescent.dev/page/</loc>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://phosphorescent.dev/</loc>
     <lastmod>2022-10-26T23:24:56+01:00</lastmod>
   </url><url>
+    <loc>https://phosphorescent.dev/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://phosphorescent.dev/categories/</loc>
+  </url><url>
+    <loc>https://phosphorescent.dev/search/</loc>
   </url><url>
     <loc>https://phosphorescent.dev/tags/</loc>
   </url>

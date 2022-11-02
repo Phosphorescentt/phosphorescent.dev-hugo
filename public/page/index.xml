@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on phosphorescent.dev</title>
+        <link>https://phosphorescent.dev/page/</link>
+        <description>Recent content in Pages on phosphorescent.dev</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://phosphorescent.dev/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://phosphorescent.dev/about/</link>
+        <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://phosphorescent.dev/about/</guid>
+        <description>&lt;p&gt;Hi. I&amp;rsquo;m Phos. I have a BSc in Mathematics from the University of Warwick. My interests include business, esports, data science and software engineering. There&amp;rsquo;s not much here at the moment, but there will be more soon!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
